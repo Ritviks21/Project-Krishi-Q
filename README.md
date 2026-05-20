@@ -127,12 +127,14 @@ Contributions are always welcome! This project demonstrates a unique proof-of-co
 * **Integrate Real-Time Data**: Connect the app to a live weather API to set the initial monsoon state based on real-time data.
 * **Enhance the AI's "Tools"**: Give the AI more "tools" to call, such as a function to look up historical data or current market prices, to enrich its strategic analysis.
 
+
 ---
 
 ## 🔗 Connect with Me
 
 <p align="left">
-<a href="https://github.com/Ritviks21" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="Ritviks21" height="30" width="40" /></a>
-<a href="https://x.com/gemdata21" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="gemdata21" height="30" width="40" /></a>
-<a href="https://huggingface.co/srits21" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hugging-face.svg" alt="srits21" height="30" width="40" /></a>
+<a href="https://github.com/Ritviks21" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="Your Github" height="30" width="40" /></a>
+<a href="https://x.com/gemdata21" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Your Twitter" height="30" width="40" /></a>
+<a href="https://huggingface.co/srits21" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hugging-face.svg" alt="Your Hugging Face" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/ritvik-raj-singh-429922379/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Your LinkedIn" height="30" width="40" /></a>
 </p>
